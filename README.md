@@ -1,4 +1,4 @@
-# ADS Fatec - Exercises
+# ADS Fatec — Exercises
 
 Repository containing programming exercises, assignments and materials developed throughout my **Systems Analysis and Development** degree at **Fatec Ribeirão Preto**.
 
@@ -14,20 +14,24 @@ Apesar da descrição majoritáriamente em inglês, atualmente, todos os código
 
 * **C**
 ```
-Exercises developed during the Programming Language course, covering fundamental programming concepts.
+Exercises developed during the Programming Language
+course, covering fundamental programming concepts.
 ```
 
 * **C++**
 ```
-Exercises from the Algorithm and Programming Language, my first programming course, focusing on algorithms, problem solving, and programming fundamentals.
+Exercises from the Algorithm and Programming Language, my first programming course, focusing
+on algorithms, problem solving, and programming fundamentals.
 ```
 
 * **C#**
 ```
-Exercises from the Object-Oriented Prgoramming course, coverinco concepts such as classes, objects, encapsulation, inheritance, and other OOP principles.
+Exercises from the Object-Oriented Prgoramming course, covering concepts such as classes,
+objects, encapsulation, inheritance, and other OOP principles.
 ```
 
 * **Flutter**
 ```
-Activites developer for the Mobile Device Programming, exploring the development of web-based applications in the Flutter framework.
+Activites developer for the Mobile Device Programming, exploring the development of web-based
+applications in the Flutter framework.
 ```

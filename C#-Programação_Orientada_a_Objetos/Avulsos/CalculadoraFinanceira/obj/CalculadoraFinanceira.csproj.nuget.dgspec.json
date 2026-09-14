@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj": {}
+    "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj": {}
   },
   "projects": {
-    "/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj": {
+    "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj",
+        "projectUniqueName": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj",
         "projectName": "CalculadoraFinanceira",
-        "projectPath": "/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj",
+        "projectPath": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj",
         "packagesPath": "/home/shadwo/.nuget/packages/",
-        "outputPath": "/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/obj/",
+        "outputPath": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/shadwo/.nuget/NuGet/NuGet.Config"
@@ -57,7 +57,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[10.0.11, 10.0.11]"
+              "version": "[10.0.12, 10.0.12]"
             }
           ],
           "frameworkReferences": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.111/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.112/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

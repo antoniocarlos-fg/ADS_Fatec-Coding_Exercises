@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02-Termostato_e_Invariantes_de_Estado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7613f49ba39b6aa55b023eceabd44991ba929f41")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4057fc2092f6084ee260034d52377eb4f8fea605")]
 [assembly: System.Reflection.AssemblyProductAttribute("02-Termostato_e_Invariantes_de_Estado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02-Termostato_e_Invariantes_de_Estado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
