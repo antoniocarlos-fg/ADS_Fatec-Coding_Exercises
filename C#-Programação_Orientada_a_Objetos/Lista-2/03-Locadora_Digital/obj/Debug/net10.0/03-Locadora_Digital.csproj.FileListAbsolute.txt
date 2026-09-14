@@ -1,0 +1,15 @@
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/obj/Debug/net10.0/03-Locadora_Digital.GeneratedMSBuildEditorConfig.editorconfig
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/obj/Debug/net10.0/03-Locadora_Digital.AssemblyInfoInputs.cache
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/obj/Debug/net10.0/03-Locadora_Digital.AssemblyInfo.cs
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/obj/Debug/net10.0/03-Locadora_Digital.csproj.CoreCompileInputs.cache
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/obj/Debug/net10.0/03-Locadora_Digital.sourcelink.json
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/bin/Debug/net10.0/03-Locadora_Digital
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/bin/Debug/net10.0/03-Locadora_Digital.deps.json
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/bin/Debug/net10.0/03-Locadora_Digital.runtimeconfig.json
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/bin/Debug/net10.0/03-Locadora_Digital.dll
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/bin/Debug/net10.0/03-Locadora_Digital.pdb
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/obj/Debug/net10.0/03-Locadora_Digital.dll
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/obj/Debug/net10.0/refint/03-Locadora_Digital.dll
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/obj/Debug/net10.0/03-Locadora_Digital.pdb
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/obj/Debug/net10.0/03-Locadora_Digital.genruntimeconfig.cache
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/obj/Debug/net10.0/ref/03-Locadora_Digital.dll

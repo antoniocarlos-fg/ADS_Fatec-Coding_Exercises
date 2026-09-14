@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "omzGS5L8GXk=",
+  "success": true,
+  "projectFilePath": "/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/04-Ficha_de_Personagem.csproj",
+  "expectedPackageFiles": [
+    "/home/shadwo/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/bin/Debug/net10.0/04-Ficha_de_Personagem
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/bin/Debug/net10.0/04-Ficha_de_Personagem.deps.json
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/bin/Debug/net10.0/04-Ficha_de_Personagem.runtimeconfig.json
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/bin/Debug/net10.0/04-Ficha_de_Personagem.dll
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/bin/Debug/net10.0/04-Ficha_de_Personagem.pdb
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/obj/Debug/net10.0/04-Ficha_de_Personagem.GeneratedMSBuildEditorConfig.editorconfig
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/obj/Debug/net10.0/04-Ficha_de_Personagem.AssemblyInfoInputs.cache
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/obj/Debug/net10.0/04-Ficha_de_Personagem.AssemblyInfo.cs
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/obj/Debug/net10.0/04-Ficha_de_Personagem.csproj.CoreCompileInputs.cache
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/obj/Debug/net10.0/04-Ficha_de_Personagem.sourcelink.json
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/obj/Debug/net10.0/04-Ficha_de_Personagem.dll
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/obj/Debug/net10.0/refint/04-Ficha_de_Personagem.dll
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/obj/Debug/net10.0/04-Ficha_de_Personagem.pdb
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/obj/Debug/net10.0/04-Ficha_de_Personagem.genruntimeconfig.cache
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/obj/Debug/net10.0/ref/04-Ficha_de_Personagem.dll

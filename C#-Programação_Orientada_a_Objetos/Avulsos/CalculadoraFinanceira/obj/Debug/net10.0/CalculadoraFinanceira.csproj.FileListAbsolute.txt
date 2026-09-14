@@ -1,0 +1,14 @@
+/home/shadwo/dev/POO/CalculadoraFinanceira/bin/Debug/net10.0/CalculadoraFinanceira
+/home/shadwo/dev/POO/CalculadoraFinanceira/bin/Debug/net10.0/CalculadoraFinanceira.deps.json
+/home/shadwo/dev/POO/CalculadoraFinanceira/bin/Debug/net10.0/CalculadoraFinanceira.runtimeconfig.json
+/home/shadwo/dev/POO/CalculadoraFinanceira/bin/Debug/net10.0/CalculadoraFinanceira.dll
+/home/shadwo/dev/POO/CalculadoraFinanceira/bin/Debug/net10.0/CalculadoraFinanceira.pdb
+/home/shadwo/dev/POO/CalculadoraFinanceira/obj/Debug/net10.0/CalculadoraFinanceira.GeneratedMSBuildEditorConfig.editorconfig
+/home/shadwo/dev/POO/CalculadoraFinanceira/obj/Debug/net10.0/CalculadoraFinanceira.AssemblyInfoInputs.cache
+/home/shadwo/dev/POO/CalculadoraFinanceira/obj/Debug/net10.0/CalculadoraFinanceira.AssemblyInfo.cs
+/home/shadwo/dev/POO/CalculadoraFinanceira/obj/Debug/net10.0/CalculadoraFinanceira.csproj.CoreCompileInputs.cache
+/home/shadwo/dev/POO/CalculadoraFinanceira/obj/Debug/net10.0/CalculadoraFinanceira.dll
+/home/shadwo/dev/POO/CalculadoraFinanceira/obj/Debug/net10.0/refint/CalculadoraFinanceira.dll
+/home/shadwo/dev/POO/CalculadoraFinanceira/obj/Debug/net10.0/CalculadoraFinanceira.pdb
+/home/shadwo/dev/POO/CalculadoraFinanceira/obj/Debug/net10.0/CalculadoraFinanceira.genruntimeconfig.cache
+/home/shadwo/dev/POO/CalculadoraFinanceira/obj/Debug/net10.0/ref/CalculadoraFinanceira.dll

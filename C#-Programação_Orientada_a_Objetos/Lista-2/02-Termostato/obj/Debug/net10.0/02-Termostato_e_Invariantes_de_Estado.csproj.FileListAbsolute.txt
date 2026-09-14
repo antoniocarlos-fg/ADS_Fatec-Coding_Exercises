@@ -1,0 +1,15 @@
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/02-Termostato_e_Invariantes_de_Estado/bin/Debug/net10.0/02-Termostato_e_Invariantes_de_Estado
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/02-Termostato_e_Invariantes_de_Estado/bin/Debug/net10.0/02-Termostato_e_Invariantes_de_Estado.deps.json
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/02-Termostato_e_Invariantes_de_Estado/bin/Debug/net10.0/02-Termostato_e_Invariantes_de_Estado.runtimeconfig.json
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/02-Termostato_e_Invariantes_de_Estado/bin/Debug/net10.0/02-Termostato_e_Invariantes_de_Estado.dll
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/02-Termostato_e_Invariantes_de_Estado/bin/Debug/net10.0/02-Termostato_e_Invariantes_de_Estado.pdb
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/02-Termostato_e_Invariantes_de_Estado/obj/Debug/net10.0/02-Termostato_e_Invariantes_de_Estado.GeneratedMSBuildEditorConfig.editorconfig
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/02-Termostato_e_Invariantes_de_Estado/obj/Debug/net10.0/02-Termostato_e_Invariantes_de_Estado.AssemblyInfoInputs.cache
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/02-Termostato_e_Invariantes_de_Estado/obj/Debug/net10.0/02-Termostato_e_Invariantes_de_Estado.AssemblyInfo.cs
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/02-Termostato_e_Invariantes_de_Estado/obj/Debug/net10.0/02-Termostato_e_Invariantes_de_Estado.csproj.CoreCompileInputs.cache
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/02-Termostato_e_Invariantes_de_Estado/obj/Debug/net10.0/02-Termostato_e_Invariantes_de_Estado.sourcelink.json
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/02-Termostato_e_Invariantes_de_Estado/obj/Debug/net10.0/02-Termostato_e_Invariantes_de_Estado.dll
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/02-Termostato_e_Invariantes_de_Estado/obj/Debug/net10.0/refint/02-Termostato_e_Invariantes_de_Estado.dll
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/02-Termostato_e_Invariantes_de_Estado/obj/Debug/net10.0/02-Termostato_e_Invariantes_de_Estado.pdb
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/02-Termostato_e_Invariantes_de_Estado/obj/Debug/net10.0/02-Termostato_e_Invariantes_de_Estado.genruntimeconfig.cache
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/02-Termostato_e_Invariantes_de_Estado/obj/Debug/net10.0/ref/02-Termostato_e_Invariantes_de_Estado.dll

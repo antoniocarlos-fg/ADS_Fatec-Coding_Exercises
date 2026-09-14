@@ -1,0 +1,15 @@
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/bin/Debug/net10.0/01-Gestão_de_Produtos
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/bin/Debug/net10.0/01-Gestão_de_Produtos.deps.json
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/bin/Debug/net10.0/01-Gestão_de_Produtos.runtimeconfig.json
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/bin/Debug/net10.0/01-Gestão_de_Produtos.dll
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/bin/Debug/net10.0/01-Gestão_de_Produtos.pdb
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/obj/Debug/net10.0/01-Gestão_de_Produtos.GeneratedMSBuildEditorConfig.editorconfig
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/obj/Debug/net10.0/01-Gestão_de_Produtos.AssemblyInfoInputs.cache
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/obj/Debug/net10.0/01-Gestão_de_Produtos.AssemblyInfo.cs
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/obj/Debug/net10.0/01-Gestão_de_Produtos.csproj.CoreCompileInputs.cache
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/obj/Debug/net10.0/01-Gestão_de_Produtos.sourcelink.json
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/obj/Debug/net10.0/01-Gestão_de_Produtos.dll
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/obj/Debug/net10.0/refint/01-Gestão_de_Produtos.dll
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/obj/Debug/net10.0/01-Gestão_de_Produtos.pdb
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/obj/Debug/net10.0/01-Gestão_de_Produtos.genruntimeconfig.cache
+/home/shadwo/dev/Fatec/Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/obj/Debug/net10.0/ref/01-Gestão_de_Produtos.dll
