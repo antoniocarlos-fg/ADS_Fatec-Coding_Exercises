@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/04-Ficha_de_Personagem.csproj": {}
+    "/home/shadwo/dev/fatec/C#/Lista-2/04-Ficha_de_Personagem/04-Ficha_de_Personagem.csproj": {}
   },
   "projects": {
-    "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/04-Ficha_de_Personagem.csproj": {
+    "/home/shadwo/dev/fatec/C#/Lista-2/04-Ficha_de_Personagem/04-Ficha_de_Personagem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/04-Ficha_de_Personagem.csproj",
+        "projectUniqueName": "/home/shadwo/dev/fatec/C#/Lista-2/04-Ficha_de_Personagem/04-Ficha_de_Personagem.csproj",
         "projectName": "04-Ficha_de_Personagem",
-        "projectPath": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/04-Ficha_de_Personagem.csproj",
+        "projectPath": "/home/shadwo/dev/fatec/C#/Lista-2/04-Ficha_de_Personagem/04-Ficha_de_Personagem.csproj",
         "packagesPath": "/home/shadwo/.nuget/packages/",
-        "outputPath": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/04-Ficha_de_Personagem/obj/",
+        "outputPath": "/home/shadwo/dev/fatec/C#/Lista-2/04-Ficha_de_Personagem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/shadwo/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/02-Termostato/02-Termostato_e_Invariantes_de_Estado.csproj",
+      "projectUniqueName": "/home/shadwo/dev/fatec/C#/Lista-2/02-Termostato/02-Termostato_e_Invariantes_de_Estado.csproj",
       "projectName": "02-Termostato_e_Invariantes_de_Estado",
-      "projectPath": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/02-Termostato/02-Termostato_e_Invariantes_de_Estado.csproj",
+      "projectPath": "/home/shadwo/dev/fatec/C#/Lista-2/02-Termostato/02-Termostato_e_Invariantes_de_Estado.csproj",
       "packagesPath": "/home/shadwo/.nuget/packages/",
-      "outputPath": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/02-Termostato/obj/",
+      "outputPath": "/home/shadwo/dev/fatec/C#/Lista-2/02-Termostato/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/shadwo/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5rullkGOZ1E=",
+  "dgSpecHash": "a5Us+12aJJg=",
   "success": true,
-  "projectFilePath": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/03-Locadora_Digital.csproj",
+  "projectFilePath": "/home/shadwo/dev/fatec/C#/Lista-2/03-Locadora_Digital/03-Locadora_Digital.csproj",
   "expectedPackageFiles": [
     "/home/shadwo/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
   ],

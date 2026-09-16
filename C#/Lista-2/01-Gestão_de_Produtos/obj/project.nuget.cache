@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jeEiI2Tmzrc=",
+  "dgSpecHash": "/tjn4Ai0O7c=",
   "success": true,
-  "projectFilePath": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/01-Gestão_de_Produtos.csproj",
+  "projectFilePath": "/home/shadwo/dev/fatec/C#/Lista-2/01-Gestão_de_Produtos/01-Gestão_de_Produtos.csproj",
   "expectedPackageFiles": [
     "/home/shadwo/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
   ],

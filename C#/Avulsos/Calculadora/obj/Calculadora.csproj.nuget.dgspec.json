@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Avulsos/Calculadora/Calculadora.csproj": {}
+    "/home/shadwo/dev/fatec/C#/Avulsos/Calculadora/Calculadora.csproj": {}
   },
   "projects": {
-    "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Avulsos/Calculadora/Calculadora.csproj": {
+    "/home/shadwo/dev/fatec/C#/Avulsos/Calculadora/Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Avulsos/Calculadora/Calculadora.csproj",
+        "projectUniqueName": "/home/shadwo/dev/fatec/C#/Avulsos/Calculadora/Calculadora.csproj",
         "projectName": "Calculadora",
-        "projectPath": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Avulsos/Calculadora/Calculadora.csproj",
+        "projectPath": "/home/shadwo/dev/fatec/C#/Avulsos/Calculadora/Calculadora.csproj",
         "packagesPath": "/home/shadwo/.nuget/packages/",
-        "outputPath": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Avulsos/Calculadora/obj/",
+        "outputPath": "/home/shadwo/dev/fatec/C#/Avulsos/Calculadora/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/shadwo/.nuget/NuGet/NuGet.Config"

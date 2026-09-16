@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj",
+      "projectUniqueName": "/home/shadwo/dev/fatec/C#/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj",
       "projectName": "CalculadoraFinanceira",
-      "projectPath": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj",
+      "projectPath": "/home/shadwo/dev/fatec/C#/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj",
       "packagesPath": "/home/shadwo/.nuget/packages/",
-      "outputPath": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/obj/",
+      "outputPath": "/home/shadwo/dev/fatec/C#/Avulsos/CalculadoraFinanceira/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/shadwo/.nuget/NuGet/NuGet.Config"

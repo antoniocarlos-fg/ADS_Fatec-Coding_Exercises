@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/01-Gestão_de_Produtos.csproj": {}
+    "/home/shadwo/dev/fatec/C#/Lista-2/01-Gestão_de_Produtos/01-Gestão_de_Produtos.csproj": {}
   },
   "projects": {
-    "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/01-Gestão_de_Produtos.csproj": {
+    "/home/shadwo/dev/fatec/C#/Lista-2/01-Gestão_de_Produtos/01-Gestão_de_Produtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/01-Gestão_de_Produtos.csproj",
+        "projectUniqueName": "/home/shadwo/dev/fatec/C#/Lista-2/01-Gestão_de_Produtos/01-Gestão_de_Produtos.csproj",
         "projectName": "01-Gestão_de_Produtos",
-        "projectPath": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/01-Gestão_de_Produtos.csproj",
+        "projectPath": "/home/shadwo/dev/fatec/C#/Lista-2/01-Gestão_de_Produtos/01-Gestão_de_Produtos.csproj",
         "packagesPath": "/home/shadwo/.nuget/packages/",
-        "outputPath": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/01-Gestão_de_Produtos/obj/",
+        "outputPath": "/home/shadwo/dev/fatec/C#/Lista-2/01-Gestão_de_Produtos/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/shadwo/.nuget/NuGet/NuGet.Config"

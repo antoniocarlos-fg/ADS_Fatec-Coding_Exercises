@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/03-Locadora_Digital.csproj": {}
+    "/home/shadwo/dev/fatec/C#/Lista-2/03-Locadora_Digital/03-Locadora_Digital.csproj": {}
   },
   "projects": {
-    "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/03-Locadora_Digital.csproj": {
+    "/home/shadwo/dev/fatec/C#/Lista-2/03-Locadora_Digital/03-Locadora_Digital.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/03-Locadora_Digital.csproj",
+        "projectUniqueName": "/home/shadwo/dev/fatec/C#/Lista-2/03-Locadora_Digital/03-Locadora_Digital.csproj",
         "projectName": "03-Locadora_Digital",
-        "projectPath": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/03-Locadora_Digital.csproj",
+        "projectPath": "/home/shadwo/dev/fatec/C#/Lista-2/03-Locadora_Digital/03-Locadora_Digital.csproj",
         "packagesPath": "/home/shadwo/.nuget/packages/",
-        "outputPath": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Lista-2/03-Locadora_Digital/obj/",
+        "outputPath": "/home/shadwo/dev/fatec/C#/Lista-2/03-Locadora_Digital/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/shadwo/.nuget/NuGet/NuGet.Config"

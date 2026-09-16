@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ouqOIy/5YJ8=",
+  "dgSpecHash": "rHpT8p7kRzM=",
   "success": true,
-  "projectFilePath": "/home/shadwo/dev/fatec/C#-Programação_Orientada_a_Objetos/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj",
+  "projectFilePath": "/home/shadwo/dev/fatec/C#/Avulsos/CalculadoraFinanceira/CalculadoraFinanceira.csproj",
   "expectedPackageFiles": [
     "/home/shadwo/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
   ],
