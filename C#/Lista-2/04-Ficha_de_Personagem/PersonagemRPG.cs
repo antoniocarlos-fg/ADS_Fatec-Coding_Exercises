@@ -1,3 +1,4 @@
+//@startuml
 public class PersonagemRPG
 {
     public string Nome;
@@ -64,3 +65,5 @@ public class PersonagemRPG
         }
     }
 }
+
+//@enduml

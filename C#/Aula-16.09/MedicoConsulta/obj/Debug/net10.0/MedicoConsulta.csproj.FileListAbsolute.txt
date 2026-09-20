@@ -1,0 +1,15 @@
+/home/shadwo/dev/fatec/C#/Aula-16.09/MedicoConsulta/obj/Debug/net10.0/MedicoConsulta.GeneratedMSBuildEditorConfig.editorconfig
+/home/shadwo/dev/fatec/C#/Aula-16.09/MedicoConsulta/obj/Debug/net10.0/MedicoConsulta.AssemblyInfoInputs.cache
+/home/shadwo/dev/fatec/C#/Aula-16.09/MedicoConsulta/obj/Debug/net10.0/MedicoConsulta.AssemblyInfo.cs
+/home/shadwo/dev/fatec/C#/Aula-16.09/MedicoConsulta/obj/Debug/net10.0/MedicoConsulta.csproj.CoreCompileInputs.cache
+/home/shadwo/dev/fatec/C#/Aula-16.09/MedicoConsulta/obj/Debug/net10.0/MedicoConsulta.sourcelink.json
+/home/shadwo/dev/fatec/C#/Aula-16.09/MedicoConsulta/bin/Debug/net10.0/MedicoConsulta
+/home/shadwo/dev/fatec/C#/Aula-16.09/MedicoConsulta/bin/Debug/net10.0/MedicoConsulta.deps.json
+/home/shadwo/dev/fatec/C#/Aula-16.09/MedicoConsulta/bin/Debug/net10.0/MedicoConsulta.runtimeconfig.json
+/home/shadwo/dev/fatec/C#/Aula-16.09/MedicoConsulta/bin/Debug/net10.0/MedicoConsulta.dll
+/home/shadwo/dev/fatec/C#/Aula-16.09/MedicoConsulta/bin/Debug/net10.0/MedicoConsulta.pdb
+/home/shadwo/dev/fatec/C#/Aula-16.09/MedicoConsulta/obj/Debug/net10.0/MedicoConsulta.dll
+/home/shadwo/dev/fatec/C#/Aula-16.09/MedicoConsulta/obj/Debug/net10.0/refint/MedicoConsulta.dll
+/home/shadwo/dev/fatec/C#/Aula-16.09/MedicoConsulta/obj/Debug/net10.0/MedicoConsulta.pdb
+/home/shadwo/dev/fatec/C#/Aula-16.09/MedicoConsulta/obj/Debug/net10.0/MedicoConsulta.genruntimeconfig.cache
+/home/shadwo/dev/fatec/C#/Aula-16.09/MedicoConsulta/obj/Debug/net10.0/ref/MedicoConsulta.dll

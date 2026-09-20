@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03-Locadora_Digital")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e6cecb411eea36fe370026e964a2e01a70154de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+031d6b362ca53189e864e94747fb0f7e271cc7c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("03-Locadora_Digital")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03-Locadora_Digital")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

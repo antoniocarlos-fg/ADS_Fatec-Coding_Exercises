@@ -12,31 +12,31 @@ Apesar da descrição majoritáriamente em inglês, atualmente, todos os código
 
 ## Contents
 
-* [C](./C-Linguagem_de_Programação)
+* [C](./C)
 ```
 Exercises developed during the Programming Language
 course, covering fundamental programming concepts.
 ```
 
-* [C++](./C++-Algoritmos_e_Lógica_de_Programação)
+* [C++](./C++)
 ```
 Exercises from the Algorithm and Programming Language, my first programming
 course, focusing on algorithms, problem solving, and programming fundamentals.
 ```
 
-* [C#](./C#-Programação_Orientada_Objetos)
+* [C#](./C#)
 ```
-Exercises from the Object-Oriented Prgoramming course, covering concepts such
+Exercises from the Object-Oriented Programming course, covering concepts such
 as classes, objects, encapsulation, inheritance, and other OOP principles.
 ```
 
-* [Flutter](./Flutter-Programação_para_DispositivosMóveis)
+* [Flutter - Dart](./Flutter-Dart)
 ```
 Activities developed for the Mobile Device Programming, exploring the
-development of web-based applications in the Flutter framework.
+development of web-based applications in the Flutter framework with the Dart coding language.
 ```
 
-* [VBA](./VBA-Programação_em_Microinformática)
+* [VBA](./VBA)
 ```
 Exercises from the Microinformatics Programming,
 focused on automation and programming with VBA.
@@ -45,12 +45,12 @@ focused on automation and programming with VBA.
 * [Diagrams](./Diagrams)
 ```
 Diagrams and modeling activities developed throughout the course, including UML Diagrams
-for the Software Egineering course, and ER Diagrams for the Database Systems course.
+for the Software Egineering and Object -riented Programming courses, and ER Diagrams for the Database Systems course.
 ```
 
 ## License
 
-This repository is licensed under the MIT License — feel free to use these exercises as a reference for your own studies.
+This repository is licensed under the MIT License.
 
 ---
 
