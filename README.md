@@ -36,6 +36,10 @@ Exercises from the **Microinformatics Programming** course, focused on automatio
 
 Diagrams and modeling activities developed throughout the course, including **UML diagrams** for Software Engineering and Object-Oriented Programming, as well as **ER diagrams** for Database Systems.
 
+### [SQL](./SQL)
+
+Database assignments and projects developed for the **Database Systems** course, including **MySQL Workbench models (`.mwb`)** and **SQL scripts (`.scripts`)**.
+
 ## License
 
 This repository is licensed under the MIT License.
